@@ -1,0 +1,5 @@
+{
+  "name": "Grafik Pracy",
+  "description": "Aplikacja do zarządzania grafikiem pracy dla pracowników z systemem logowania i uprawnień. Umożliwia administratorom tworzenie i edycję grafików oraz zarządzanie uprawnieniami użytkowników, a pracownikom przeglądanie ich zmian.",
+  "requestFramePermissions": []
+}
